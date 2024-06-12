@@ -10,6 +10,7 @@ import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
 
+//v2
 @ExtendWith({SoftAssertsExtension.class})
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class PaymentTests {
